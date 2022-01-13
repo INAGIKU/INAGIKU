@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...DEVELOPING API
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...api development 
-- 📫 How to reach me ...ej.steele@keap.com
+- 📫 How to reach me ...ej@inward2onward.com
 
 <!---
 INAGIKU/INAGIKU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
